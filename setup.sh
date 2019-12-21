@@ -13,7 +13,15 @@ brew cask install keyboardcleantool
 brew cask install giphy-capture
 brew cask install docker
 brew cask install unity-hub
-# brew cask install apowersoft-heic-converter
+
 # appstore install command
 brew install mas
-# brew cask install gtaskspro
+
+mas install 1054781057 # gtaskspo
+mas install 497799835 # xcode 11.3
+mas install 668208984 # GIPHY CAPTURE
+mas install 409183694 #key note
+
+# apowersoft-heic-converter
+# spark ar
+# touch designer
