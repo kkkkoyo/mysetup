@@ -10,7 +10,6 @@ brew cask install sourcetree
 brew cask install Postman
 brew cask install mamp
 brew cask install keyboardcleantool
-brew cask install giphy-capture
 brew cask install docker
 brew cask install unity-hub
 
