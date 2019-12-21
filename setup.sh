@@ -6,3 +6,4 @@ brew cask install skitch
 brew cask install slack
 brew cask install visual-studio-code
 brew cask install iterm
+brew cask install sourcetree
